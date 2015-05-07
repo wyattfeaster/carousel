@@ -1,6 +1,10 @@
 // MY SCRIPTS
+ 
+  $("#owl-example").owlCarousel({
 
-// var year = new Date.getYear();
-document.write("Hello World!");
+  	paginationSpeed: 400;
+  	autoplay : true
+  });
+ 
 
 
